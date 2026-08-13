@@ -1,4 +1,4 @@
-# Prueba Técnica – Analista de Datos
+# Análisis de Datos
 ### Mariana Alejandra Pimienta Hernandez
 
 Este repositorio contiene el desarrollo completo de la prueba técnica para el proceso de selección del cargo **Analista de Datos**.
