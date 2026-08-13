@@ -1,9 +1,7 @@
 # Análisis de Datos
 ### Mariana Alejandra Pimienta Hernandez
 
-Este repositorio contiene el desarrollo completo de la prueba técnica para el proceso de selección del cargo **Analista de Datos**.
-
-El objetivo fue resolver los cuatro puntos propuestos, documentando el proceso de análisis, construcción de modelos, visualización de resultados y generación de conclusiones de negocio.
+El objetivo de este repositorio fue resolver los cuatro puntos propuestos para la actividad -Análisis de Datos-, documentando el proceso, construcción de modelos, visualización de resultados y generación de conclusiones de negocio.
 
 
 # Desarrollo
